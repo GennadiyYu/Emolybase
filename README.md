@@ -1,2 +1,3 @@
-# Emolybase
-Emolybase_bot
+# EMOLYBASE Telegram Bot
+
+Production-ready Vercel webhook deployment.
